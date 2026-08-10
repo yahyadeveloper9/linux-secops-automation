@@ -4,3 +4,5 @@
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu_Hardening-black?style=for-the-badge&logo=ubuntu)
 
 A production-grade collection of Bash scripts for Ubuntu server initial setup, UFW firewall lockdown, fail2ban brute-force protection, automated offsite backups, and kernel tuning.
+
+# Verified: secops(fail2ban): Configure Custom Jail for Nginx Auth Failures

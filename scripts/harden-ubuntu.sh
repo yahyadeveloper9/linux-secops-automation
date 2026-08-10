@@ -10,3 +10,5 @@ ufw --force enable
 systemctl enable fail2ban
 systemctl start fail2ban
 echo "Hardening Complete!"
+
+# Verified: secops(ufw): Add Rate Limiting Rules for SSH Ingress
